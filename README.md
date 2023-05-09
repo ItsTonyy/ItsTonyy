@@ -23,7 +23,7 @@ I'm currently starting in the technology field, and learning languages ​​lik
 <br/>  
 
 
-## Rapidfire  
+## Curiosity  
 <table><tr><td valign="top" width="50%">
 
 - 📚 I’m currently learning JavaScript   
