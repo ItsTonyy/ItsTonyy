@@ -23,19 +23,6 @@ I'm currently starting in the technology field, and learning languages ​​lik
 <br/>  
 
 
-## Curiosity  
-<table><tr><td valign="top" width="50%">
-
-- 📚 I’m currently learning JavaScript   
-  
-
-- 🌎 Currently I live in Brazil and i was born in Rio de Janeiro  
-  
-
--  🐈 Fun fact: I have a male cat named luke and he is orange  
-
-
-</td><td valign="top" width="50%">
 
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
