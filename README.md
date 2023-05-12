@@ -15,7 +15,7 @@
 
 
 ### Glad to see you here!  
-I'm currently starting in the technology field, and learning languages ​​like JavaScript, Rust and others! My future is uncertain but I am studying and improving day by day to one day be a great programmer.
+I'm currently starting in the technology field, and learning languages ​​like JavaScript, Rust and others! 
 
  If you think you can help me in any way, please do not hesitate to send me a message.  
   
