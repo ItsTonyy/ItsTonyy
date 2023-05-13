@@ -25,3 +25,5 @@
 ### Studying in this moment:
 ![Node.JS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 ![React.js](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:0700b8,100:00ff88&height=120&section=footer"/>
