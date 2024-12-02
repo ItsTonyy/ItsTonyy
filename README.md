@@ -34,7 +34,7 @@ My name is Tony Terra Nova, born and raised in Brazil. I'm a budding programmer 
 
 
 ### Studying In This Moment
-Nothing :(
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ### Contact Me
 <a target='_blank' href="https://www.linkedin.com/in/tony-terra-nova/"> 
