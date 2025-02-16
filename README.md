@@ -19,6 +19,7 @@ My name is Tony Terra Nova, born and raised in Brazil. I'm a budding programmer 
 
 ### Main Skills
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React.js](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
@@ -34,7 +35,7 @@ My name is Tony Terra Nova, born and raised in Brazil. I'm a budding programmer 
 
 
 ### Studying In This Moment
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
 
 ### Contact Me
 <a target='_blank' href="https://www.linkedin.com/in/tony-terra-nova/"> 
