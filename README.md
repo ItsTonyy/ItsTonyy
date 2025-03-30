@@ -1,10 +1,10 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:03001e,33:7303c0,66:ec38bc,100:fdeff9&height=140&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:e3eeff,100:00245e&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9e4bf1&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Tony+Terra+Nova+Portela;I'm+21+years+old;I'm+from+Brazil,+RJ;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=edf2fa&size=30&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Tony+Terra+Nova+Portela;I'm+21+years+old;I'm+from+Brazil,+RJ;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ItsTonyy&show_icons=true&count_private=true&hide_border=true&title_color=9e4bf1&icon_color=9e4bf1&text_color=e8eaf9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsTonyy&layout=compact&hide_border=true&title_color=9e4bf1&text_color=e8eaf9&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ItsTonyy&show_icons=true&count_private=true&hide_border=true&title_color=edf2fa&icon_color=4188fa&text_color=edf2fa&bg_color=0d1117"/> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsTonyy&layout=compact&hide_border=true&title_color=edf2fa&text_color=e8eaf9&bg_color=0d1117" />
 </div>
 
 ### Public Information
@@ -45,5 +45,4 @@ My name is Tony Terra Nova, born and raised in Brazil. I'm a budding programmer 
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:03001e,33:7303c0,66:ec38bc,100:fdeff9&height=140&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:e4e7e4,100:0a1647&height=120&section=footer"/>
