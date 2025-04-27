@@ -15,7 +15,7 @@ My name is Tony Terra Nova, born and raised in Brazil. I'm a budding programmer 
 - Age: 20
 - Living in: Rio de Janeiro - RJ, Brazil.
 - Main Stack: JavaScript/Typescript
-- University: Federal Center for Technological Education, Computer Science 1/8.
+- University: Federal Center for Technological Education, Computer Science 3/8.
 
 ### Main Skills
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
