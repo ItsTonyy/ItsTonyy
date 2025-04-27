@@ -14,7 +14,7 @@ My name is Tony Terra Nova, born and raised in Brazil. I'm a budding programmer 
 - Name: Tony Terra Nova
 - Age: 20
 - Living in: Rio de Janeiro - RJ, Brazil.
-- Stack: JavaScript/Typescript
+- Main Stack: JavaScript/Typescript
 - University: Federal Center for Technological Education, Computer Science 1/8.
 
 ### Main Skills
