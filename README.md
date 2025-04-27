@@ -41,8 +41,7 @@ My name is Tony Terra Nova, born and raised in Brazil. I'm a budding programmer 
 <a target='_blank' href="https://www.linkedin.com/in/tony-terra-nova/"> 
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-<a target='_blank' href="https://www.instagram.com/itst0nyy/"> 
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
+
+Email: tonytnportela@gmail.com
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:e4e7e4,100:0a1647&height=120&section=footer"/>
