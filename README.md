@@ -1,5 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:e3eeff,100:00245e&height=120&section=header"/>
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=edf2fa&size=30&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Tony+Terra+Nova+Portela;I'm+21+years+old;I'm+from+Brazil,+RJ;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
@@ -12,10 +10,10 @@ My name is Tony Terra Nova, born and raised in Brazil. I'm a budding programmer 
 
 ### Detailed Information
 - Name: Tony Terra Nova
-- Age: 20
+- Age: 22
 - Living in: Rio de Janeiro - RJ, Brazil.
 - Main Stack: JavaScript/Typescript
-- University: Federal Center for Technological Education, Computer Science 3/8.
+- University: Federal Center for Technological Education, Computer Science 5/8.
 
 ### Main Skills
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -38,10 +36,5 @@ My name is Tony Terra Nova, born and raised in Brazil. I'm a budding programmer 
 [![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
 
 ### Contact Me
-<a target='_blank' href="https://www.linkedin.com/in/tony-terra-nova/"> 
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-Email: tonytnportela@gmail.com
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:e4e7e4,100:0a1647&height=120&section=footer"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tony-terra-nova/)&nbsp;
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:tonytnportela@gmail.com)
