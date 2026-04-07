@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=edf2fa&size=30&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Tony+Terra+Nova+Portela;I'm+21+years+old;I'm+from+Brazil,+RJ;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=edf2fa&size=30&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Tony+Terra+Nova+Portela;I'm+22+years+old;I'm+from+Brazil,+RJ;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 ### Public Information
 My name is Tony Terra Nova, born and raised in Brazil. I'm a budding programmer navigating my path in the vast world of technology. My primary aim is to secure my inaugural job opportunity, with the future aspiration of aiding individuals in my country who need assistance to enter the realm of programming. Presently, I'm pursuing a degree in Computer Science at a federal university of technology
