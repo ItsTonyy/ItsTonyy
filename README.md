@@ -1,38 +1,32 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=edf2fa&size=30&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Tony+Terra+Nova+Portela;I'm+22+years+old;I'm+from+Brazil,+RJ;Be+Welcome!+:%29)](https://git.io/typing-svg)
+<table>
+<tr>
+<td width="45%" align="center">
 
-### Public Information
-My name is Tony Terra Nova, born and raised in Brazil. I'm a budding programmer navigating my path in the vast world of technology. My primary aim is to secure my inaugural job opportunity, with the future aspiration of aiding individuals in my country who need assistance to enter the realm of programming. Presently, I'm pursuing a degree in Computer Science at a federal university of technology
-
-### Detailed Information
-- Name: Tony Terra Nova
-- Age: 22
-- Living in: Rio de Janeiro - RJ, Brazil.
-- Main Stack: JavaScript/Typescript
-- University: Federal Center for Technological Education, Computer Science 5/8.
-
-### Main Skills
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-[![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
-![React.js](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-
-### Tools
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
-![Windows](https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
+<img width="642" height="903" alt="motherboard2" src="https://github.com/user-attachments/assets/ff1c5cfb-6a5e-49cf-8f8c-8d3573d90a69" />
 
 
-### Studying In This Moment
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite&logoColor=07405E)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
+</td>
+<td width="55%" valign="top">
 
-### Contact Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tony-terra-nova/)&nbsp;
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:tonytnportela@gmail.com)
+## Seu Nome
+
+My name is Tony Terra Nova, born and raised in Brazil. I'm a budding programmer navigating my path in the vast world of technology. My primary aim is to secure my inaugural job opportunity. Presently, I'm pursuing a degree in Computer Science at a federal university of technology
+
+### Áreas de Interesse
+
+- Linguagens de programação
+- Sistemas operacionais
+- Computação paralela
+
+### Tecnologias
+
+- **Linguagens:** Typescript, Node.Js, C
+- **Frameworks:** Next.Js, Astro
+### Contato
+
+- Linkedin: [Clique Aqui](https://www.linkedin.com/in/tony-terra-nova/)
+- Email: [Clique Aqui](mailto:tonytnportela@gmail.com)
+
+</td>
+</tr>
+</table>
