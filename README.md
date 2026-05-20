@@ -2,14 +2,14 @@
   <tr>
   <td width="45%" align="center">
     
-  <img width="700" height="1100" alt="motherboard2" src="https://github.com/user-attachments/assets/ff1c5cfb-6a5e-49cf-8f8c-8d3573d90a69" />
+  <img width="680" height="1100" alt="motherboard2" src="https://github.com/user-attachments/assets/ff1c5cfb-6a5e-49cf-8f8c-8d3573d90a69" />
   
   </td>
   <td width="55%" valign="top">
   
   <h1>Tony Terra Nova</h1>
   
-  <p>I'm a budding programmer navigating my path in the vast world of technology. My primary aim is to secure my inaugural job opportunity. Presently, I'm currently   pursuing a degree in Computer Science at a federal university of technology.</p>
+  <p>I'm a budding programmer navigating my path in the vast world of technology. My primary aim is to secure my inaugural job opportunity. Presently, I'm currently   pursuing a degree in a federal university of technology.</p>
   
   <h2>Areas of Interest</h2>
   <ul>
