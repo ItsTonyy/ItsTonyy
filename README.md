@@ -19,7 +19,7 @@
   </ul>
   
   
-  <h2>Tecnologias</h2>
+  <h2>Techs</h2>
   
   - **Languages:** Typescript, Node.Js, C
   - **Frameworks:** Next.Js, Astro
